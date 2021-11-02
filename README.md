@@ -2,7 +2,7 @@
 <h3 align="center">computer engineering student</h3>
 
 - 👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
--  
+
 - 🔭 I’m currently working on amazing android project.
 
 - 💬 Ask me about **react, nodejs and java !**
