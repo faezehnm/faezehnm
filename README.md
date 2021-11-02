@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faezeh Naeimi</h1>
 
-- 👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
+ 👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
 
-- 🔭 I’m currently working on amazing android project.
+ 🔭 I’m currently working on amazing android project.
 
-- 💬 Ask me about **react, nodejs and java !**
+ 💬 Ask me about **react, nodejs and java !**
+ 
+ 📫 How to reach me **fff.naeimi@gmail.com**
 
-- 📫 How to reach me **fff.naeimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
