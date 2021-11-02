@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faezeh Naeimi</h1>
-<h3 align="center">computer engineering student</h3>
 
 - 👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
 
