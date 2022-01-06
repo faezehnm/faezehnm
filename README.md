@@ -2,8 +2,6 @@
 
  👨‍💻 I’m currently studying **Computer Engineering at Amirkabir University of Technology**
 
- 🔭 I’m currently working on amazing android project.
-
  💬 Ask me about **React, Node.js and Java !**
  
  📫 How to reach me **fff.naeimi@gmail.com**
